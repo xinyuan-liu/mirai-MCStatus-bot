@@ -1,0 +1,9 @@
+服务器IP：
+www.example.com
+——
+GT Not Hard 1.1.1
+端口号：25565
+——
+FTB Interations
+1.0.3：25581
+2.0.10：25577

@@ -8,9 +8,6 @@ class ServerUpdateEvent(BaseEvent):
         super().__init__(message=message)
     
     class Dispatcher(BaseDispatcher):
-        # def catch(self, interface: DispatcherInterface) -> Any:
-        #     return ...
-
         async def catch(self, interface: DispatcherInterface):
             return ...
 
