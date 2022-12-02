@@ -1,0 +1,1 @@
+# mirai-MCStatus-bot
